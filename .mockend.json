@@ -1,6 +1,6 @@
 
 {
-    "User":{
-        "name": "hello"
+    "TrainResult":{
+        "id": { "string": {}}
     }
 }
