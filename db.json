@@ -1,9 +1,19 @@
 {
-    "training": {
-        "id": "abc",
-        "input": {
-            "instance_prompt": "What is the name of the person?"
-        }
-
+  "trainings": 
+    {
+      "id": "rrr4z55ocneqzikepnug6xezpe",
+      "input": {
+        "instance_prompt": "photo of a cjw person",
+        "class_prompt": "photo of a person",
+        "instance_data": "https://replicate.delivery/pbxt/HoUeWsrtTTCJEpKGdLKqIYTfo8nbUTSNs565MkGxEstjfwKt/data.zip",
+        "max_train_steps": 2000
+      },
+      "model": "yourusername/yourmodel",
+      "status": "starting",
+      "webhook_completed": "https://example.com/dreambooth-webhook"
+    },
+    "upload": {
+        "upload_url": "https://upload.com",
+        "serving_url": "https://serving.com"
     }
 }
