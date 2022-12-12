@@ -1,0 +1,9 @@
+{
+    "training": {
+        "id": "abc",
+        "input": {
+            "instance_prompt": "What is the name of the person?",
+        }
+
+    }
+}
