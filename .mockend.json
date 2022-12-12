@@ -1,6 +1,20 @@
 
 {
     "Training":{
-        "id": { "string": {}}
+        "id": { "string": {}},
+        "input": {
+            "instance_prompt": {
+                "string": {}
+            }
+        },
+        "model": {
+            "string": {}
+        },
+        "status": {
+            "string": {}
+        },
+        "webhook_completed": {
+            "string": {}
+        }
     }
 }
